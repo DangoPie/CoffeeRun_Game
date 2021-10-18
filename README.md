@@ -3,6 +3,8 @@ First 2d platform game!
 
 To run the game go to 2dGameBuilds and download the zip file.
 
-Open which ever file correlates to what Operating System you're using and open the application.
+Unzip the file.
+
+Open which ever file correlates to what Operating System you're using and open the "InCLass.exe" application.
 
 Play the game and have fun!
