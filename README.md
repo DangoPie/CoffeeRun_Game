@@ -14,7 +14,9 @@ Play the game and have fun!
 
 
 https://youtu.be/vSUM_U1Rjfk
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vSUM_U1Rjfk
+" target="_blank"><img src="http://img.youtube.com/vi/vSUM_U1Rjfk/0.jpg
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vSUM_U1Rjfk/0.jpg)](http://www.youtube.com/watch?v=vSUM_U1Rjfk)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vSUM_U1Rjfk
 " target="_blank"><img src="http://img.youtube.com/vi/vSUM_U1Rjfk/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+</a>
