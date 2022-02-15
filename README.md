@@ -8,3 +8,4 @@ Unzip the file.
 Open which ever file correlates to what Operating System you're using and open the "InCLass.exe" application.
 
 Play the game and have fun!
+![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/Coffee.png)
