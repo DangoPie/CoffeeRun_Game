@@ -13,6 +13,7 @@ Play the game and have fun!
 ![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/BackStory.png)
 
 
+Check out the gameplay by clicking the image below!
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vSUM_U1Rjfk/0.jpg)](http://www.youtube.com/watch?v=vSUM_U1Rjfk)
 
