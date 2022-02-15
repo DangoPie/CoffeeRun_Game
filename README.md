@@ -1,5 +1,5 @@
 # CoffeeRun_Game
-First 2d platform game!
+First 2d platform game made with **Unity**
 
 To run the game go to 2dGameBuilds and download the zip file.
 
