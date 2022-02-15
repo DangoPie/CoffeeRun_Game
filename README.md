@@ -10,3 +10,4 @@ Open which ever file correlates to what Operating System you're using and open t
 Play the game and have fun!
 
 ![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/HomeScreen.png)
+![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/BackStory.png)
