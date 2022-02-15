@@ -9,11 +9,14 @@ Open which ever file correlates to what Operating System you're using and open t
 
 Play the game and have fun!
 
-![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/HomeScreen.png)
-![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/BackStory.png)
-
-
 Check out the gameplay by clicking the image below!
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vSUM_U1Rjfk/0.jpg)](http://www.youtube.com/watch?v=vSUM_U1Rjfk)
+
+
+## Images of Game
+
+![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/HomeScreen.png)
+![alt text](https://github.com/JessieSu2/CoffeeRun_Game/blob/main/BackStory.png)
+
 
